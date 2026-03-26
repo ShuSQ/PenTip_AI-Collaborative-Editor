@@ -1,6 +1,10 @@
 #  ✒️ **笔头PenTip**
 
-> Think. Write. Evolve.
+>笔头PenTip是一款桌面端 Markdown 编辑器，
+>为一种新的写作方式而设计，
+>让思考、描述与优化，在同一个流动的过程中自然发生
+>AN editor shaped by vibe coding.
+>Think. Write. Evolve.
 
 ![video](https://github.com/user-attachments/assets/2291924d-90e7-4b90-811a-c72b97b64f03)
 
@@ -11,7 +15,7 @@
 
 不同于在编辑器与 AI 对话之间来回切换，PenTip 将 AI 融入写作本身，让你的想法在书写过程中自然生长。
 
-## 📦 Installation
+## 📦 安装使用
 
 Download the latest version:
 - macOS: [PenTip-0.1.0-macos-arm64.dmg](https://github.com/ShuSQ/PenTip_AI-Collaborative-Editor)
@@ -20,8 +24,6 @@ Download the latest version:
 ```bash
 git clone https://github.com/ShuSQ/PenTip_AI-Collaborative-Editor.git
 cd pentip
-npm install
-npm run dev
 
 ⚡ Quick Start
 1. Open or create a markdown file  
