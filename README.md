@@ -8,13 +8,6 @@
 
 ![video](https://github.com/user-attachments/assets/2291924d-90e7-4b90-811a-c72b97b64f03)
 
-笔头PenTip 是一款桌面端 Markdown 编辑器，让思考、描述与优化，在同一个流动的过程中发生。
-
-<img width="1282" height="860" alt="15na0b9-pentip_screenShot" src="https://github.com/user-attachments/assets/5e0ed449-8257-475e-88e9-a23c3df32e3a" />
-
-
-不同于在编辑器与 AI 对话之间来回切换，PenTip 将 AI 融入写作本身，让你的想法在书写过程中自然生长。
-
 ## 📦 安装使用
 
 Download the latest version:
@@ -32,6 +25,11 @@ cd pentip
 ```
 
 **当前仅支持在Apple M 芯片（Apple Silicon M-series）设备上运行。**
+<img width="1282" height="860" alt="15na0b9-pentip_screenShot" src="https://github.com/user-attachments/assets/5e0ed449-8257-475e-88e9-a23c3df32e3a" />
+
+
+不同于在编辑器与 AI 对话之间来回切换，PenTip 将 AI 融入写作本身，让你的想法在书写过程中自然生长。
+
 
 ## **✨ 为什么是 PenTip**
 
