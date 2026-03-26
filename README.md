@@ -5,7 +5,8 @@
 ![video](https://github.com/user-attachments/assets/2291924d-90e7-4b90-811a-c72b97b64f03)
 
 笔头PenTip 是一款桌面端 Markdown 编辑器，让思考、描述与优化，在同一个流动的过程中发生。
-![Uploading 15na0b9-pentip_screenShot.png…]()
+
+<img width="1282" height="860" alt="15na0b9-pentip_screenShot" src="https://github.com/user-attachments/assets/5e0ed449-8257-475e-88e9-a23c3df32e3a" />
 
 
 不同于在编辑器与 AI 对话之间来回切换，PenTip 将 AI 融入写作本身，让你的想法在书写过程中自然生长。
@@ -65,16 +66,19 @@ AI 不再是工具，而是协作者，所有思考都发生在上下文中。
 **2.🧩Skills能力支持**
 
 把“思考方式”变成“可复用能力”。从 skills.sh 一键添加能力，支持自定义、修改与沉淀，将高频思考转化为工具。
-<img width="480" height="568" alt="l17mni-发现skill" src="https://github.com/user-attachments/assets/74d37ee3-a29d-496a-b143-b92d079fb954" />
+
+<img width="240" height="284" alt="l17mni-发现skill" src="https://github.com/user-attachments/assets/74d37ee3-a29d-496a-b143-b92d079fb954" />
 
 
 同时支持"/"快捷能力。在写作过程中，随时调用能力。
-<img width="420" height="640" alt="108el4q-slash面板" src="https://github.com/user-attachments/assets/e79c1745-34bb-43c4-a5e4-248fc1d3078a" />
+
+<img width="210" height="320" alt="108el4q-slash面板" src="https://github.com/user-attachments/assets/e79c1745-34bb-43c4-a5e4-248fc1d3078a" />
 
 无需切换模式，一切自然发生。
 
 **内置8款skills助力协作：**
-<img width="426" height="644" alt="7fuzw-添加skill" src="https://github.com/user-attachments/assets/1a19542e-d22b-43bc-8718-5deba4656b5d" />
+
+<img width="213" height="322" alt="7fuzw-添加skill" src="https://github.com/user-attachments/assets/1a19542e-d22b-43bc-8718-5deba4656b5d" />
 
 轻量管理能力，灵活应用丰富会话沟通。
 
@@ -88,22 +92,29 @@ AI 不再是工具，而是协作者，所有思考都发生在上下文中。
 
 在更多的细化场景中，进行了体验的打磨：
 - Status Item，更快开始，更快启动；
-<img width="300" height="366" alt="xoinf3-statusbar" src="https://github.com/user-attachments/assets/b0599dfa-99bd-4017-a112-f0c78a7f3db0" />
+  
+<img width="150" height="183" alt="xoinf3-statusbar" src="https://github.com/user-attachments/assets/b0599dfa-99bd-4017-a112-f0c78a7f3db0" />
+
 - 自动保存，不会丢失任何的关键改动；
 
 - 历史记录，总是可以找到打开过的文档；
+  
 <img width="1320" height="860" alt="1q995ix-历史记录" src="https://github.com/user-attachments/assets/49a24ada-57b9-414e-9956-6e1310658ab8" />
 
 - Snapshot，可以通过关键对比洞察文档变化；
+  
 <img width="1320" height="860" alt="m2clz2-snapshot" src="https://github.com/user-attachments/assets/1981b14e-6321-4430-92b0-85a87118cb06" />
 
 - 深浅色适配，提供夜间视力友好的输入界面；
+  
 <img width="1320" height="860" alt="1rjmfl5-深色模式" src="https://github.com/user-attachments/assets/9dbff6de-9ee9-4e80-af13-12f63208a3fb" />
 
 - 会话式创建，直接描述灵感交给模型展开；
+  
 <img width="1320" height="860" alt="i0ptt3-会话式创建" src="https://github.com/user-attachments/assets/509dcfe7-1896-4b61-8c76-91a0135c3afe" />
 
 - 口袋模式，无需markdown预览对照，所见即所编辑；
+  
 <img width="660" height="860" alt="x5jis4-口袋模式" src="https://github.com/user-attachments/assets/d64b2d04-f078-4fdf-90ac-3e82c462a526" />
 
 - 有生命力的nomono状态响应。
