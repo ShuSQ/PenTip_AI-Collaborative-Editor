@@ -2,7 +2,8 @@
 
 > Think. Write. Evolve.
 
-<video controls src="./PenTip_ReadMe.assets/u0ne84-动态.mov"></video>
+https://github.com/user-attachments/assets/ce149045-3c5d-49ae-b349-083397be96f2
+
 
 笔头PenTip 是一款桌面端 Markdown 编辑器，让思考、描述与优化，在同一个流动的过程中发生。
 ![pentip screenShot](./PenTip_ReadMe.assets/15na0b9-pentip_screenShot.png)
