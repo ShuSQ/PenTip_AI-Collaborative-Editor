@@ -1,4 +1,4 @@
-#  🧠 **笔头PenTip**
+#  ✒️ **笔头PenTip**
 
 > Think. Write. Evolve.
 
