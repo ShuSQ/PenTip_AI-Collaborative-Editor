@@ -25,6 +25,7 @@ cd pentip
 ```
 
 **当前仅支持在Apple M 芯片（Apple Silicon M-series）设备上运行。**
+**部分场景可能因为缺少开发者证书而无法打开，正在给Apple充值😭**
 
 <img width="1282" height="860" alt="15na0b9-pentip_screenShot" src="https://github.com/user-attachments/assets/5e0ed449-8257-475e-88e9-a23c3df32e3a" />
 
