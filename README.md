@@ -6,6 +6,8 @@
 >AN editor shaped by vibe coding.
 >Think. Write. Evolve.
 
+**4月7日更新：支持Google_Gemma_4模型本地配置，修复部分体验和拖拽问题。**
+
 ![video](https://github.com/user-attachments/assets/2291924d-90e7-4b90-811a-c72b97b64f03)
 
 ## 📦 安装使用
