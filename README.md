@@ -6,6 +6,17 @@
 >AN editor shaped by vibe coding.
 >Think. Write. Evolve.
 
+## Download packaged archive
+
+**4月22日更新：支持最新 Microsoft MarkItDown。**
+
+现在可以在PenTip里打开更多格式的文件了，包括但不限于.pdf/.doc/.html，而且打开后就能以markdown形式渲染与保存。
+
+The packaged v0.1.1 archive is available from GitHub Releases:
+
+https://github.com/ShuSQ/PenTip_AI-Collaborative-Editor/releases/tag/v0.1.1
+
+
 **4月7日更新：支持Google_Gemma_4模型本地配置，修复部分体验和拖拽问题。**
 
 ![video](https://github.com/user-attachments/assets/2291924d-90e7-4b90-811a-c72b97b64f03)
