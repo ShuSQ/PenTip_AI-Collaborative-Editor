@@ -10,11 +10,12 @@
 
 **4月22日更新：支持最新 Microsoft MarkItDown。**
 
+https://github.com/ShuSQ/PenTip_AI-Collaborative-Editor/releases/tag/v0.1.1
+
 现在可以在PenTip里打开更多格式的文件了，包括但不限于.pdf/.doc/.html，而且打开后就能以markdown形式渲染与保存。
 
 The packaged v0.1.1 archive is available from GitHub Releases:
 
-https://github.com/ShuSQ/PenTip_AI-Collaborative-Editor/releases/tag/v0.1.1
 
 
 **4月7日更新：支持Google_Gemma_4模型本地配置，修复部分体验和拖拽问题。**
