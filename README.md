@@ -2,7 +2,7 @@
 
 >笔头PenTip是一款桌面端 Markdown 编辑器，
 >为一种新的写作方式而设计，
->让思考、描述与优化，在同一个流动的过程中自然发生
+>让思考、描述与优化，在同一个流动的过程中自然发生。
 >An editor shaped by vibe coding.
 >Think. Write. Evolve.
 
